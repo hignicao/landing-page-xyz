@@ -120,8 +120,6 @@ body {
 		"item-1 image-right"
 		"image-left item-2"
 		/ 1fr 1fr;
-	max-width: var(--max-width-size);
-	margin: 0 auto;
 }
 
 .about .image {
